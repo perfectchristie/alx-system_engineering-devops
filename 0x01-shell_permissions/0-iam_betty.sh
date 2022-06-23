@@ -1,0 +1,3 @@
+#!/bin/bh
+su betty
+
